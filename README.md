@@ -2,7 +2,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-hoge
+[![Build Status](https://travis-ci.org/weed/angular-seed-heroku-p140814.svg?branch=master)](https://travis-ci.org/weed/angular-seed-heroku-p140814)
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
