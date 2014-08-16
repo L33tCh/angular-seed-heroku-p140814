@@ -1,4 +1,6 @@
-# angular-seed-heroku — the seed for AngularJS apps with Heroku button
+# angular-seed-heroku
+
+## angular-seed, automatically proccessed by Travis CI (tested and deployed to Heroku), with Heroku button
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
