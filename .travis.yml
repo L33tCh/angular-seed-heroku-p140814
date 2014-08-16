@@ -16,3 +16,4 @@ script:
 deploy:
   provider: heroku
   api_key: "c4c4ff9d8e36984d83bf2735ce8c79f365f25494"
+  app: angular-seed-test-p140814
